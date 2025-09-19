@@ -1,4 +1,4 @@
-# Deep Learning Practice Repository  
+# Deep Learning Practice 
 
 This repository contains my deep learning practice work, covering different concepts, implementations.  
 
